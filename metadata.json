@@ -1,0 +1,5 @@
+{
+  "name": "LensFrame - Photo Watermark Tool",
+  "description": "A professional tool to add EXIF data frames to your photos. Automatically detects camera model, lens, and settings to create stylish 'Shot on' banners.",
+  "requestFramePermissions": []
+}
